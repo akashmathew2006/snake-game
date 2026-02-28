@@ -1,6 +1,6 @@
 /* Vanilla JS Snake with canvas, keyboard + touch, localStorage high score */
 (() => {
-  const canvas = document.getElementById('game');
+  cons canvas = document.getElementById('game');
   const ctx = canvas.getContext('2d');
   const scoreEl = document.getElementById('score');
   const highEl = document.getElementById('high');
